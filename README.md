@@ -16,3 +16,6 @@ Uses React hooks (useState, useEffect) to manage the state within components.
 Local Storage:
 
 Uses @react-native-async-storage/async-storage to persist the cart data on the device.
+Screenshot
+![first page](<rn-assignment6-11115682/screenshots/screenshot 1.png>)
+![second page](<rn-assignment6-11115682/screenshots/screenshot 2.png>)
